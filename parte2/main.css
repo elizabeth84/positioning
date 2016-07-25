@@ -1,0 +1,19 @@
+*{
+	width:200px;
+	height:200px;
+	position:relative;
+}
+body{
+	margin:0;
+	padding:0;
+}
+.primero{
+	background:#ee3e64;
+	left:100px;
+}
+.segundo{
+	background:#44accf;
+}
+.tercero{
+	background:#b7d84b;
+}

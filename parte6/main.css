@@ -1,0 +1,19 @@
+div{
+	width:200px;
+	height:200px;
+	position:inline-block;
+}
+.primero{
+	background:#ee3e64;
+}	
+.segundo{
+	background:#44accf;
+	position:absolute;
+	left:208px;
+}
+.tercero{
+	background:#b7d84b;
+}
+.cuarto{
+	background:#FFFF00;
+}

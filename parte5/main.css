@@ -1,0 +1,28 @@
+div{
+	width:200px;
+	height:200px;
+	position:absolute;
+}
+.contenedora{
+	position:relative;
+}
+.primero{
+	background:#ee3e64;
+	left:0px;
+	top:0px;
+}	
+.segundo{
+	background:#44accf;
+	left:530px;
+	top:1px;
+}
+.tercero{
+	background:#b7d84b;
+	left:530px;
+	top:300px;
+}
+.cuarto{
+	background:#FFFF00;
+	right: 0;
+	top:300px;
+}
